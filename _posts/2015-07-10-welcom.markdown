@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Hello World!"
-date:   2015-07-10 15:14:54
-categories: hello 
+title:  "第一篇博客"
+date:   2017-07-25 15:14:54
+categories: 人生新篇章 
 tags: hello 
 excerpt: 第一篇文章，Hello World，留个纪念吧。
 mathjax: true
 ---
 
-第一篇文章，Hello World，留个纪念吧。
+自己搭建了个个人的博客，以后在这里更新下自己的工作与学习的心得和学习的资料、资源；大家可以参考共同进步。有什么问题可以与我进行联系
     
 
-![](https://raw.githubusercontent.com/youkantou/youkantou.github.io/master/img/1.png)
+![](https://raw.githubusercontent.com/jxyu/jxyu.github.io/master/img/1.png)
