@@ -4,7 +4,7 @@ title:  "第一篇博客"
 date:   2017-07-25 15:14:54
 categories: 人生新篇章 
 tags: hello 
-excerpt: 第一篇文章，Hello World，留个纪念吧。
+excerpt: 从此以后，开启人生新篇章。从这篇博客开始
 mathjax: true
 ---
 
